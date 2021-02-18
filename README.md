@@ -21,12 +21,13 @@
 | :--: | :----------------------------------------------------------: | :----: | ------- |
 |  1   | Cognitive neuroscience of sleep(2010). Progress in brain research, 185, 1-19. |  张玲琦  | 3月5日 |
 |  2   | Neural representations during sleep: From sensory processing to memory traces(2007). Neurobiology of Learning and Memory |  夏涛  | 3月12日 |
-|  3   | Endogenous memory reactivation during sleep in humans is clocked by slow oscillation-spindle complexes.(2020). bioRxiv |  沙漫琪  | 3月19日 |
+|  3   | Endogenous memory reactivation during sleep in humans is clocked by slow oscillation-spindle complexes (2020). bioRxiv |  沙漫琪  | 3月19日 |
 |  4   | 待定 |  塞力克  | 3月26日 |
-|  5   | Sleep Loss and the Socio-Emotional Brain(2020). Trends in Cognitive Sciences |  曾盛梓  | 4月2日 |
-|  6   | 待定 |  陈丹妮  | 4月9日 |
+|  5   | Sleep Loss and the Socio-Emotional Brain (2020). Trends in Cognitive Sciences |  曾盛梓  | 4月2日 |
+|  6   | 待定 |  陈丹妮  | 4月9日  |
 |  7   | 待定 |  陈敬国  | 4月16日 |
 |  9   | 待定 |  林轩怡  | 4月23日 |
 |  10  | 待定 |  姚子青  | 4月30日 |
+|  11  | 待定 |  翁媛媛  | 5月7日  |
 
 
