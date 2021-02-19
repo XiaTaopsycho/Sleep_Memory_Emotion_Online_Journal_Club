@@ -1,6 +1,6 @@
 # 睡眠认知神经科学在线文献报告讨论会(The Cognitive Neuroscience of Sleep Online Journal Club)
 
-* 发起成员： [Tao Xia 夏涛(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Manqi Sha 沙漫琪(BNU)](https://github.com/ManqiSha), [Lingqi Zhang 张玲琦(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Jingguo Chen 陈敬国(XJTU)](http://gr.xjtu.edu.cn/web/jing-guo.chen), [Yuanyuan Wen 翁媛媛(SWU)](http://www.leixulab.net/student.asp?id=55),[Dani Chen 陈丹妮(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Like Sai 塞力克(PKU)](https://scholar.google.com/citations?hl=en&user=S7AnCdwAAAAJ), [Shengzi Zeng 曾盛梓(HKU)](https://www.psychology.hku.hk/scnlab/people.html),[Xuanyi Lin 林轩怡(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Ziqing Yao 姚子青(HKU)](https://www.psychology.hku.hk/scnlab/people.html)
+* 发起成员： [Tao Xia 夏涛(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Manqi Sha 沙漫琪(BNU)](https://github.com/ManqiSha), [Lingqi Zhang 张玲琦(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Jingguo Chen 陈敬国(XJTU)](http://gr.xjtu.edu.cn/web/jing-guo.chen), [Yuanyuan Wen 翁媛媛(SWU)](http://www.leixulab.net/student.asp?id=55),[Danni Chen 陈丹妮(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Like Sai 塞力克(PKU)](https://scholar.google.com/citations?hl=en&user=S7AnCdwAAAAJ), [Shengzi Zeng 曾盛梓(HKU)](https://www.psychology.hku.hk/scnlab/people.html),[Xuanyi Lin 林轩怡(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Ziqing Yao 姚子青(HKU)](https://www.psychology.hku.hk/scnlab/people.html)
 
 * 微信群：睡眠认知神经科学
 
