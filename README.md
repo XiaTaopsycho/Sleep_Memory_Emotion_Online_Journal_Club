@@ -21,13 +21,13 @@
 | :--: | :----------------------------------------------------------: | :----: | ------- |
 |  1   | Cognitive neuroscience of sleep(2010). Progress in brain research, 185, 1-19. |  张玲琦  | 3月5日 |
 |  2   | Real-time dialogue between experimenters and dreamers during REM sleep(2020). Current Biology |  夏涛  | 3月12日 |
-|  3   | Endogenous memory reactivation during sleep in humans is clocked by slow oscillation-spindle complexes (2020). bioRxiv |  沙曼琪  | 3月19日 |
-|  4   | Brain white matter damage and its association with neuronal synchrony during sleep |  塞力克  | 3月26日 |
-|  5   | Sleep Loss and the Socio-Emotional Brain (2020). Trends in Cognitive Sciences |  曾盛梓  | 4月2日 |
-|  6   | 待定 |  陈丹妮  | 4月9日  |
-|  7   | 待定 |  陈敬国  | 4月16日 |
-|  9   | 待定 |  林轩怡  | 4月23日 |
-|  10  | 待定 |  姚子青  | 4月30日 |
-|  11  | 待定 |  翁媛媛  | 5月7日  |
+|  3   | Sleeping with Hippocampal Damage(2020). Current Biology |  林轩怡  | 3月19日 |
+|  4   | Endogenous memory reactivation during sleep in humans is clocked by slow oscillation-spindle complexes (2020). bioRxiv |  沙曼琪  | 3月26日 |
+|  5   | Brain white matter damage and its association with neuronal synchrony during sleep |  塞力克  | 4月2日 |
+|  6   | Sleep Loss and the Socio-Emotional Brain (2020). Trends in Cognitive Sciences |  曾盛梓  | 4月9日 |
+|  7   | 待定 |  陈丹妮  | 4月16日  |
+|  8   | 待定 |  陈敬国  | 4月23日 |
+|  9   | 待定 |  姚子青  | 4月30日 |
+|  10  | 待定 |  翁媛媛  | 5月7日  |
 
 
