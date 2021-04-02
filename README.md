@@ -24,7 +24,7 @@
 |  3   | Sleeping with Hippocampal Damage(2020). Current Biology |  林轩怡  | 3月19日 |
 |  4   | Endogenous memory reactivation during sleep in humans is clocked by slow oscillation-spindle complexes (2020). bioRxiv |  沙曼琪  | 3月26日 |
 |  5   | Brain white matter damage and its association with neuronal synchrony during sleep |  塞力克  | 4月2日 |
-|  6   | Sleep Loss and the Socio-Emotional Brain (2020). Trends in Cognitive Sciences |  曾盛梓  | 4月9日 |
+|  6   | Targeted memory reactivation in REM but not SWS selectively reduces arousal responses (2021). Communications Biology |  曾盛梓  | 4月9日 |
 |  7   | 待定 |  陈丹妮  | 4月16日  |
 |  8   | 待定 |  陈敬国  | 4月23日 |
 |  9   | 待定 |  姚子青  | 4月30日 |
