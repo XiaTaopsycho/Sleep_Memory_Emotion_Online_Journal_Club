@@ -25,7 +25,7 @@
 |  4   | Endogenous memory reactivation during sleep in humans is clocked by slow oscillation-spindle complexes (2020). bioRxiv |  沙曼琪  | 3月26日 |
 |  5   | Brain white matter damage and its association with neuronal synchrony during sleep |  塞力克  | 4月2日 |
 |  6   | Targeted memory reactivation in REM but not SWS selectively reduces arousal responses (2021). Communications Biology |  曾盛梓  | 4月9日 |
-|  7   | Sleep spindles preferentially consolidate weakly encoded memories |  陈丹妮  | 4月16日  |
+|  7   | Sleep spindles preferentially consolidate weakly encoded memories (2021) The Journal of Neuroscience |  陈丹妮  | 4月16日  |
 |  8   | 待定 |  陈敬国  | 4月23日 |
 |  9   | 待定 |  姚子青  | 4月30日 |
 |  10  | 待定 |  翁媛媛  | 5月7日  |
