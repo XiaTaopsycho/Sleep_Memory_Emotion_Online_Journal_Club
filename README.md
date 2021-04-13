@@ -1,6 +1,6 @@
 # 睡眠认知神经科学在线文献报告讨论会(The Cognitive Neuroscience of Sleep Online Journal Club)
 
-* 发起成员： [Tao Xia 夏涛(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Manqi Sha 沙曼琪(BNU)](https://github.com/ManqiSha), [Lingqi Zhang 张玲琦(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Jingguo Chen 陈敬国(XJTU)](http://gr.xjtu.edu.cn/web/jing-guo.chen), [Yuanyuan Wen 翁媛媛(SWU)](http://www.leixulab.net/student.asp?id=55),[Danni Chen 陈丹妮(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Like Sai 塞力克(PKU)](https://scholar.google.com/citations?hl=en&user=S7AnCdwAAAAJ), [Shengzi Zeng 曾盛梓(HKU)](https://www.psychology.hku.hk/scnlab/people.html),[Xuanyi Lin 林轩怡(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Ziqing Yao 姚子青(HKU)](https://www.psychology.hku.hk/scnlab/people.html)
+* 发起成员： [Tao Xia 夏涛(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Manqi Sha 沙曼琪(BNU)](https://github.com/ManqiSha), [Lingqi Zhang 张玲琦(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Yuanyuan Wen 翁媛媛(SWU)](http://www.leixulab.net/student.asp?id=55),[Danni Chen 陈丹妮(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Like Sai 塞力克(PKU)](https://scholar.google.com/citations?hl=en&user=S7AnCdwAAAAJ), [Shengzi Zeng 曾盛梓(HKU)](https://www.psychology.hku.hk/scnlab/people.html),[Xuanyi Lin 林轩怡(HKU)](https://www.psychology.hku.hk/scnlab/people.html), [Ziqing Yao 姚子青(HKU)](https://www.psychology.hku.hk/scnlab/people.html)
 
 * 微信群：睡眠认知神经科学
 
@@ -26,8 +26,7 @@
 |  5   | Brain white matter damage and its association with neuronal synchrony during sleep |  塞力克  | 4月2日 |
 |  6   | Targeted memory reactivation in REM but not SWS selectively reduces arousal responses (2021). Communications Biology |  曾盛梓  | 4月9日 |
 |  7   | Sleep spindles preferentially consolidate weakly encoded memories (2021) The Journal of Neuroscience |  陈丹妮  | 4月16日  |
-|  8   | 待定 |  陈敬国  | 4月23日 |
-|  9   | 待定 |  姚子青  | 4月30日 |
-|  10  | 待定 |  翁媛媛  | 5月7日  |
+|  8   | 待定 |  姚子青  | 4月23日 |
+|  9   | 待定 |  翁媛媛  | 4月30日  |
 
 
