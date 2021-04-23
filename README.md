@@ -23,7 +23,7 @@
 |  2   | Real-time dialogue between experimenters and dreamers during REM sleep(2020). Current Biology |  夏涛  | 3月12日 |
 |  3   | Sleeping with Hippocampal Damage(2020). Current Biology |  林轩怡  | 3月19日 |
 |  4   | Endogenous memory reactivation during sleep in humans is clocked by slow oscillation-spindle complexes (2020). bioRxiv |  沙曼琪  | 3月26日 |
-|  5   | Brain white matter damage and its association with neuronal synchrony during sleep |  塞力克  | 4月2日 |
+|  5   | Brain white matter damage and its association with neuronal synchrony during sleep (2018). Brain |  塞力克  | 4月2日 |
 |  6   | Targeted memory reactivation in REM but not SWS selectively reduces arousal responses (2021). Communications Biology |  曾盛梓  | 4月9日 |
 |  7   | Sleep spindles preferentially consolidate weakly encoded memories (2021) The Journal of Neuroscience |  陈丹妮  | 4月16日  |
 |  8   | Multiple memories can be simultaneously reactivated during sleep as effectively as a single memory (2021) Communications Biology |  姚子青  | 4月23日 |
