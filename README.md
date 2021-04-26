@@ -27,7 +27,7 @@
 |  6   | Targeted memory reactivation in REM but not SWS selectively reduces arousal responses (2021). Communications Biology |  曾盛梓  | 4月9日 |
 |  7   | Sleep spindles preferentially consolidate weakly encoded memories (2021) The Journal of Neuroscience |  陈丹妮  | 4月16日  |
 |  8   | Multiple memories can be simultaneously reactivated during sleep as effectively as a single memory (2021) Communications Biology |  姚子青  | 4月23日 |
-|  9   | Impaired top-down auditory processing despite extensive single-neuron responses during human sleep (2021). BioRxiv |  夏涛  | 4月30日  |
+|  9   | Changes in cross‑frequency coupling following closed‑loop auditory stimulation in non‑rapid eye movement sleep (2020). Scientific Reports |  夏涛  | 4月30日  |
 | 10   | 待定 |  翁媛媛  | 5月7日  |
 | 11   | 待定 |  范志伟  | 5月14日 |
 | 12   | 待定 |  何勍    | 5月21日 |
