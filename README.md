@@ -29,7 +29,7 @@
 |  8   | Multiple memories can be simultaneously reactivated during sleep as effectively as a single memory (2021) Communications Biology |  姚子青  | 4月23日 |
 |  9   | Changes in cross‑frequency coupling following closed‑loop auditory stimulation in non‑rapid eye movement sleep (2020). Scientific Reports |  夏涛  | 4月30日  |
 | 10   | Occipital sleep spindles predict sequence learning in a visuo-motor task (2021). Sleep |  翁媛媛  | 5月7日  |
-| 11   | Complementary contributions of non-REM and REM sleep to visual learning (2020). Nature Neuroscience| 5月14日 |
+| 11   | Complementary contributions of non-REM and REM sleep to visual learning (2020). Nature Neuroscience | 5月14日 |
 | 12   | 待定 |  何勍    | 5月21日 |
 
 
