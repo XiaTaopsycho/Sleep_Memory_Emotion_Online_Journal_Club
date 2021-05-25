@@ -30,7 +30,9 @@
 |  9   | Changes in cross‑frequency coupling following closed‑loop auditory stimulation in non‑rapid eye movement sleep (2020). Scientific Reports |  夏涛  | 4月30日  |
 | 10   | Occipital sleep spindles predict sequence learning in a visuo-motor task (2021). Sleep |  翁媛媛  | 5月7日  |
 | 11   | Complementary contributions of non-REM and REM sleep to visual learning (2020). Nature Neuroscience  | 范志伟 | 5月14日 |
-| 12   | 待定 |  何勍    | 5月21日 |
+| 12   | Communication from the cerebellum to the neocortex during sleep spindles (2020). Progress in Neurobiology |  李伟光    | 5月21日 |
+| 13   | Targeted memory reactivation has a sleep stage-specific delayed effect on dream content (2021). Journal of Sleep Research |  沙曼琪    | 5月28日 |
+| 14   | Promoting subjective preferences in simple economic choices during nap (2018). eLife |  陈丹妮    | 6月4日 |
 
 
 
