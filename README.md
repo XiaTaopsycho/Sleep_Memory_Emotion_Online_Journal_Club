@@ -15,7 +15,16 @@
 1. 加强领域内同行的讨论和交流。
 2. 扩展睡眠研究视野
 
-## 日程安排
+## 2021下半年日程安排
+| 期号 |                             文献                             | 报告人 | 日期    |
+| :--: | :----------------------------------------------------------: | :----: | ------- |
+|  1   | Reward biases spontaneous neural reactivation during sleep. Nature Communications. |  刘婧  | 8月13日 |
+|  2   | Does sleep-dependent consolidation favour weak memories(2021). Cortex |  张玲琦  | 8月20日 |
+|  3   | Electrophysiological signatures of memory reactivation in humans (2020). Philosophical Transactions of the Royal Society B |  夏涛  | 8月27日 |
+|  4   | Sleep selectively enhances memory expected to be of future relevance(2011). Journal of Neuroscience |  陈丹妮  | 9月3日 |
+
+
+## 2021上半年日程安排
 
 
 | 期号 |                             文献                             | 报告人 | 日期    |
