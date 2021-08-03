@@ -19,6 +19,8 @@
 
 | 期号 |                             文献                             | 报告人 | 日期    |
 | :--: | :----------------------------------------------------------: | :----: | ------- |
+
+
 |  1   | Cognitive neuroscience of sleep(2010). Progress in brain research, 185, 1-19. |  张玲琦  | 3月5日 |
 |  2   | Real-time dialogue between experimenters and dreamers during REM sleep(2020). Current Biology |  夏涛  | 3月12日 |
 |  3   | Sleeping with Hippocampal Damage(2020). Current Biology |  林轩怡  | 3月19日 |
@@ -33,6 +35,8 @@
 | 12   | Communication from the cerebellum to the neocortex during sleep spindles (2020). Progress in Neurobiology |  李伟光    | 5月21日 |
 | 13   | Targeted memory reactivation has a sleep stage-specific delayed effect on dream content (2021). Journal of Sleep Research |  沙曼琪    | 5月28日 |
 | 14   | Promoting subjective preferences in simple economic choices during nap (2018). eLife |  陈丹妮    | 6月4日 |
+| 15   | Whole-body procedural learning benefits from targeted memory reactivation in REM sleep and task-related dreaming (2021). NBLM |  曾盛梓    | 6月18日 |
+| 15   | Closed-Loop Slow-Wave tACS Improves Sleep-Dependent Long-Term Memory Generalization by Modulating Endogenous Oscillations (2018). Journal of Neuroscience |  郭雪    | 7月2日 |
 
 
 
