@@ -24,6 +24,8 @@
 |  4   | Sleep selectively enhances memory expected to be of future relevance(2011). Journal of Neuroscience |  陈丹妮  | 9月3日 |
 |  5   | A metabolic function of the hippocampal sharp wave-ripple(2021). Nature |  刘威  | 9月10日 |
 |  6   | Rapid Neural Reorganization during Retrieval Practice Predicts Subsequent Long-term Retention and False Memory (2020). BioRxiv |  庄理平  | 9月17日 |
+|  7   | β-amyloid disrupts human NREM slow waves and related hippocampus-dependent memory consolidation (2015). Nature Neuroscience |  曾盛梓  | 9月24日 |
+|  8   | 待定 |  沙曼琪  | 9月30日 |
 
 
 ## 2021上半年日程安排
